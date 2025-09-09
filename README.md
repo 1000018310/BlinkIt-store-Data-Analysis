@@ -40,7 +40,7 @@ LIMIT 5;
 
 ## 👨‍💻 Author
 
-- **Shivam Kumar Sharma**  
+- *PRINCE PAL**  
   Data Analyst | SQL | Power BI | Excel
 
 ---
